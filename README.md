@@ -1,4 +1,4 @@
-meta-opie
+meta-gopie
 =========
 
 This layer provides the metadata necessary to build Opie, Qt/Embedded 2.3.10,
